@@ -1,6 +1,6 @@
 # Udacity Adventure Game Project
 
-#### For my Udacity's Intro to Programming Course I had to make an Adventure Game using _Python language_! 
+#### For my Udacity's Intro to Programming Course I had to make an Adventure Game using the _Python language_! 
 
 These were the requirements:
 * The game gives players a description of what's happening, and then asks them to make a choice.
